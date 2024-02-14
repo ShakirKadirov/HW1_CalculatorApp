@@ -15,6 +15,8 @@
 
 ## Скриншоты
 ![Alt Text](![calgif](https://github.com/ShakirKadirov/HW1_CalculatorApp/assets/138371102/9a9ff532-c398-409b-8bac-f1f9eaa7820c))
+<img src="<img width="50%" alt="screen" src="https://github.com/ShakirKadirov/HW1_CalculatorApp/assets/138371102/efb5b76f-8512-4f4f-8584-8458d325ac65">
+" alt="альтернативный текст">
 
 ## Как использовать
 
