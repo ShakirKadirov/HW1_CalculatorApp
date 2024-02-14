@@ -14,7 +14,7 @@
 - Удобный интерфейс с кнопками для каждой операции.
 
 ## Скриншоты
-![Alt Text]![calgif](https://github.com/ShakirKadirov/HW1_CalculatorApp/assets/138371102/4e279821-559a-4b0b-ae75-d162a0d20f44))
+[calgif](https://github.com/ShakirKadirov/HW1_CalculatorApp/assets/138371102/4e279821-559a-4b0b-ae75-d162a0d20f44))
 
 ## Как использовать
 
